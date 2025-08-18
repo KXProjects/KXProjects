@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por criar soluções inovadora
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens**: Python, Kotlin
-- **Frameworks**: GDeveloper
+- **Frameworks**: VS Code
 - **Ferramentas**: VS Code, Android Studio
 - **Outras**: GDeveloper
 
